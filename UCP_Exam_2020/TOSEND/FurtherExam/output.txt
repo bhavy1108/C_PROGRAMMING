@@ -1,0 +1,4 @@
+Bob Jones,F,F,F,F
+Steve Apples,F,F,F,F
+Shanks Levi,F,F,F,F
+Zack Brown,A,A,A,A
